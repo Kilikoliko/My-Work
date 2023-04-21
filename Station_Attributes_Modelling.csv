@@ -1,4 +1,4 @@
-ID,Station Name,Network Line,District,ITL Region,Eastings (m),Northings (m),Entries and Exits (April 2021 - March 2022),No of Interchanges (April 2021 - March 2022),National Ranking (April 2021 - March 2022)
+ID,Station Name,Network Line,District,ITL Region,Eastings,Northings,Entries and Exits,No of Interchanges,National Ranking
 BLE,Bramley (West Yorkshire),Bradford - Manchester Line,Leeds,TLE4,424006,434397,195548,0,1160
 NPD,New Pudsey,Bradford - Manchester Line,Leeds,TLE4,421156,434316,401868,0,769
 BDI,Bradford Interchange,Bradford - Manchester Line,Bradford,TLE4,416619,432738,1762388,88951,215
